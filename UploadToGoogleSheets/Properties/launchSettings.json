@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NMSCD.BaitBox": {
+      "commandName": "Project",
+      "commandLineArgs": "--output \"googlesheet\""
+    }
+  }
+}
