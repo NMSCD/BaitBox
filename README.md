@@ -23,6 +23,8 @@ This work was very tedious and it turned out that the in-game data was not store
 
 This project is a collection of the files used to extract the data from the game files, parse the information and then upload the data to the [GoogleSheet][ggfGoogleSheet].
 
+It is worth noting that another contributor to the Google Sheet was [Craig Mark][nmsresourcesTwitter] who also added his data from his meticulous work which also exists on his [web site][nmsresourcesWeb] as an additional sheet (tab).
+
 <br />
 
 <!-- Links used in the page -->
@@ -35,3 +37,5 @@ This project is a collection of the files used to extract the data from the game
 [nmsAquariusUpdate]: https://www.nomanssky.com/2024/09/aquarius-update/?ref=NMSCDBaitBox
 [nmspy]: https://github.com/monkeyman192/NMS.py?ref=NMSCDBaitBox
 [ggfGoogleSheet]: https://docs.google.com/spreadsheets/d/1x9LFIzRIFG8B17wQqDNaD77atbtVtq9YK_PsbIJasiY
+[nmsresourcesTwitter]: https://x.com/nmsresources?ref=NMSCDBaitBox
+[nmsresourcesWeb]: https://www.nomansskyresources.com/home?ref=NMSCDBaitBox
