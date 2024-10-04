@@ -1,0 +1,1691 @@
+[
+    {
+      "productId": "FISHBAIT_1"
+    },
+    {
+      "productId": "FISHBAIT_2"
+    },
+    {
+      "productId": "FISHBAIT_3"
+    },
+    {
+      "productId": "FISHBAIT_DAY"
+    },
+    {
+      "productId": "FISHBAIT_NIGHT"
+    },
+    {
+      "productId": "FISHBAIT_STORM"
+    },
+    {
+      "productId": "S15_BOT_1"
+    },
+    {
+      "productId": "S15_BOT_2"
+    },
+    {
+      "productId": "S15_BOT_3"
+    },
+    {
+      "productId": "S15_BOT_4"
+    },
+    {
+      "productId": "S15_FISH"
+    },
+    {
+      "productId": "F_ALL_COM_S1"
+    },
+    {
+      "productId": "F_ALL_COM_S2"
+    },
+    {
+      "productId": "F_ALL_COM_S3"
+    },
+    {
+      "productId": "F_ALL_COM_M1"
+    },
+    {
+      "productId": "F_ALL_COM_M2"
+    },
+    {
+      "productId": "F_ALL_COM_L1"
+    },
+    {
+      "productId": "F_ALL_COM_XL"
+    },
+    {
+      "productId": "F_ALL_RARE_S1"
+    },
+    {
+      "productId": "F_ALL_RARE_S2"
+    },
+    {
+      "productId": "F_ALL_RARE_M1"
+    },
+    {
+      "productId": "F_ALL_RARE_M2"
+    },
+    {
+      "productId": "F_ALL_RARE_L1"
+    },
+    {
+      "productId": "F_ALL_RARE_XL"
+    },
+    {
+      "productId": "F_ALL_EPIC_S1"
+    },
+    {
+      "productId": "F_ALL_EPIC_M1"
+    },
+    {
+      "productId": "F_ALL_EPIC_L1"
+    },
+    {
+      "productId": "F_ALL_EPIC_XL"
+    },
+    {
+      "productId": "F_ALL_LEG_S1"
+    },
+    {
+      "productId": "F_ALL_LEG_M1"
+    },
+    {
+      "productId": "F_ALL_LEG_L1"
+    },
+    {
+      "productId": "F_ALL_LEG_XL"
+    },
+    {
+      "productId": "F_TOX_COM_S1"
+    },
+    {
+      "productId": "F_TOX_COM_S2"
+    },
+    {
+      "productId": "F_TOX_COM_S3"
+    },
+    {
+      "productId": "F_TOX_COM_M1"
+    },
+    {
+      "productId": "F_TOX_COM_M2"
+    },
+    {
+      "productId": "F_TOX_COM_L1"
+    },
+    {
+      "productId": "F_TOX_COM_XL"
+    },
+    {
+      "productId": "F_TOX_RARE_S1"
+    },
+    {
+      "productId": "F_TOX_RARE_S2"
+    },
+    {
+      "productId": "F_TOX_RARE_M1"
+    },
+    {
+      "productId": "F_TOX_RARE_M2"
+    },
+    {
+      "productId": "F_TOX_RARE_L1"
+    },
+    {
+      "productId": "F_TOX_RARE_XL"
+    },
+    {
+      "productId": "F_TOX_EPIC_S1"
+    },
+    {
+      "productId": "F_TOX_EPIC_M1"
+    },
+    {
+      "productId": "F_TOX_EPIC_L1"
+    },
+    {
+      "productId": "F_TOX_EPIC_XL"
+    },
+    {
+      "productId": "F_TOX_LEG_S1"
+    },
+    {
+      "productId": "F_TOX_LEG_M1"
+    },
+    {
+      "productId": "F_TOX_LEG_L1"
+    },
+    {
+      "productId": "F_TOX_LEG_XL"
+    },
+    {
+      "productId": "F_RAD_COM_S1"
+    },
+    {
+      "productId": "F_RAD_COM_S2"
+    },
+    {
+      "productId": "F_RAD_COM_S3"
+    },
+    {
+      "productId": "F_RAD_COM_M1"
+    },
+    {
+      "productId": "F_RAD_COM_M2"
+    },
+    {
+      "productId": "F_RAD_COM_L1"
+    },
+    {
+      "productId": "F_RAD_COM_XL"
+    },
+    {
+      "productId": "F_RAD_RARE_S1"
+    },
+    {
+      "productId": "F_RAD_RARE_S2"
+    },
+    {
+      "productId": "F_RAD_RARE_M1"
+    },
+    {
+      "productId": "F_RAD_RARE_M2"
+    },
+    {
+      "productId": "F_RAD_RARE_L1"
+    },
+    {
+      "productId": "F_RAD_RARE_XL"
+    },
+    {
+      "productId": "F_RAD_EPIC_S1"
+    },
+    {
+      "productId": "F_RAD_EPIC_M1"
+    },
+    {
+      "productId": "F_RAD_EPIC_L1"
+    },
+    {
+      "productId": "F_RAD_EPIC_XL"
+    },
+    {
+      "productId": "F_RAD_LEG_S1"
+    },
+    {
+      "productId": "F_RAD_LEG_M1"
+    },
+    {
+      "productId": "F_RAD_LEG_L1"
+    },
+    {
+      "productId": "F_RAD_LEG_XL"
+    },
+    {
+      "productId": "F_HOT_COM_S1"
+    },
+    {
+      "productId": "F_HOT_COM_S2"
+    },
+    {
+      "productId": "F_HOT_COM_S3"
+    },
+    {
+      "productId": "F_HOT_COM_M1"
+    },
+    {
+      "productId": "F_HOT_COM_M2"
+    },
+    {
+      "productId": "F_HOT_COM_L1"
+    },
+    {
+      "productId": "F_HOT_COM_XL"
+    },
+    {
+      "productId": "F_HOT_RARE_S1"
+    },
+    {
+      "productId": "F_HOT_RARE_S2"
+    },
+    {
+      "productId": "F_HOT_RARE_M1"
+    },
+    {
+      "productId": "F_HOT_RARE_M2"
+    },
+    {
+      "productId": "F_HOT_RARE_L1"
+    },
+    {
+      "productId": "F_HOT_RARE_XL"
+    },
+    {
+      "productId": "F_HOT_EPIC_S1"
+    },
+    {
+      "productId": "F_HOT_EPIC_M1"
+    },
+    {
+      "productId": "F_HOT_EPIC_L1"
+    },
+    {
+      "productId": "F_HOT_EPIC_XL"
+    },
+    {
+      "productId": "F_HOT_LEG_S1"
+    },
+    {
+      "productId": "F_HOT_LEG_M1"
+    },
+    {
+      "productId": "F_HOT_LEG_L1"
+    },
+    {
+      "productId": "F_HOT_LEG_XL"
+    },
+    {
+      "productId": "F_COLD_COM_S1"
+    },
+    {
+      "productId": "F_COLD_COM_S2"
+    },
+    {
+      "productId": "F_COLD_COM_S3"
+    },
+    {
+      "productId": "F_COLD_COM_M1"
+    },
+    {
+      "productId": "F_COLD_COM_M2"
+    },
+    {
+      "productId": "F_COLD_COM_L1"
+    },
+    {
+      "productId": "F_COLD_COM_XL"
+    },
+    {
+      "productId": "F_COLD_RARE_S1"
+    },
+    {
+      "productId": "F_COLD_RARE_S2"
+    },
+    {
+      "productId": "F_COLD_RARE_M1"
+    },
+    {
+      "productId": "F_COLD_RARE_M2"
+    },
+    {
+      "productId": "F_COLD_RARE_L1"
+    },
+    {
+      "productId": "F_COLD_RARE_XL"
+    },
+    {
+      "productId": "F_COLD_EPIC_S1"
+    },
+    {
+      "productId": "F_COLD_EPIC_M1"
+    },
+    {
+      "productId": "F_COLD_EPIC_L1"
+    },
+    {
+      "productId": "F_COLD_EPIC_XL"
+    },
+    {
+      "productId": "F_COLD_LEG_S1"
+    },
+    {
+      "productId": "F_COLD_LEG_M1"
+    },
+    {
+      "productId": "F_COLD_LEG_L1"
+    },
+    {
+      "productId": "F_COLD_LEG_XL"
+    },
+    {
+      "productId": "F_LUSH_COM_S1"
+    },
+    {
+      "productId": "F_LUSH_COM_S2"
+    },
+    {
+      "productId": "F_LUSH_COM_S3"
+    },
+    {
+      "productId": "F_LUSH_COM_M1"
+    },
+    {
+      "productId": "F_LUSH_COM_M2"
+    },
+    {
+      "productId": "F_LUSH_COM_L1"
+    },
+    {
+      "productId": "F_LUSH_COM_XL"
+    },
+    {
+      "productId": "F_LUSH_RARE_S1"
+    },
+    {
+      "productId": "F_LUSH_RARE_S2"
+    },
+    {
+      "productId": "F_LUSH_RARE_M1"
+    },
+    {
+      "productId": "F_LUSH_RARE_M2"
+    },
+    {
+      "productId": "F_LUSH_RARE_L1"
+    },
+    {
+      "productId": "F_LUSH_RARE_XL"
+    },
+    {
+      "productId": "F_LUSH_EPIC_S1"
+    },
+    {
+      "productId": "F_LUSH_EPIC_M1"
+    },
+    {
+      "productId": "F_LUSH_EPIC_L1"
+    },
+    {
+      "productId": "F_LUSH_EPIC_XL"
+    },
+    {
+      "productId": "F_LUSH_LEG_S1"
+    },
+    {
+      "productId": "F_LUSH_LEG_M1"
+    },
+    {
+      "productId": "F_LUSH_LEG_L1"
+    },
+    {
+      "productId": "F_LUSH_LEG_XL"
+    },
+    {
+      "productId": "F_DUST_COM_S1"
+    },
+    {
+      "productId": "F_DUST_COM_S2"
+    },
+    {
+      "productId": "F_DUST_COM_S3"
+    },
+    {
+      "productId": "F_DUST_COM_M1"
+    },
+    {
+      "productId": "F_DUST_COM_M2"
+    },
+    {
+      "productId": "F_DUST_COM_L1"
+    },
+    {
+      "productId": "F_DUST_COM_XL"
+    },
+    {
+      "productId": "F_DUST_RARE_S1"
+    },
+    {
+      "productId": "F_DUST_RARE_S2"
+    },
+    {
+      "productId": "F_DUST_RARE_M1"
+    },
+    {
+      "productId": "F_DUST_RARE_M2"
+    },
+    {
+      "productId": "F_DUST_RARE_L1"
+    },
+    {
+      "productId": "F_DUST_RARE_XL"
+    },
+    {
+      "productId": "F_DUST_EPIC_S1"
+    },
+    {
+      "productId": "F_DUST_EPIC_M1"
+    },
+    {
+      "productId": "F_DUST_EPIC_L1"
+    },
+    {
+      "productId": "F_DUST_EPIC_XL"
+    },
+    {
+      "productId": "F_DUST_LEG_S1"
+    },
+    {
+      "productId": "F_DUST_LEG_M1"
+    },
+    {
+      "productId": "F_DUST_LEG_L1"
+    },
+    {
+      "productId": "F_DUST_LEG_XL"
+    },
+    {
+      "productId": "F_ODD_COM_S1"
+    },
+    {
+      "productId": "F_ODD_COM_S2"
+    },
+    {
+      "productId": "F_ODD_COM_S3"
+    },
+    {
+      "productId": "F_ODD_COM_M1"
+    },
+    {
+      "productId": "F_ODD_COM_M2"
+    },
+    {
+      "productId": "F_ODD_COM_L1"
+    },
+    {
+      "productId": "F_ODD_COM_XL"
+    },
+    {
+      "productId": "F_ODD_RARE_S1"
+    },
+    {
+      "productId": "F_ODD_RARE_S2"
+    },
+    {
+      "productId": "F_ODD_RARE_M1"
+    },
+    {
+      "productId": "F_ODD_RARE_M2"
+    },
+    {
+      "productId": "F_ODD_RARE_L1"
+    },
+    {
+      "productId": "F_ODD_RARE_XL"
+    },
+    {
+      "productId": "F_ODD_EPIC_S1"
+    },
+    {
+      "productId": "F_ODD_EPIC_M1"
+    },
+    {
+      "productId": "F_ODD_EPIC_L1"
+    },
+    {
+      "productId": "F_ODD_EPIC_XL"
+    },
+    {
+      "productId": "F_ODD_LEG_S1"
+    },
+    {
+      "productId": "F_ODD_LEG_M1"
+    },
+    {
+      "productId": "F_ODD_LEG_L1"
+    },
+    {
+      "productId": "F_ODD_LEG_XL"
+    },
+    {
+      "productId": "F_TRASH_1"
+    },
+    {
+      "productId": "F_TRASH_2"
+    },
+    {
+      "productId": "F_TRASH_3"
+    },
+    {
+      "productId": "F_TRASH_4"
+    },
+    {
+      "productId": "F_TRASH_5"
+    },
+    {
+      "productId": "F_TRASH_6"
+    },
+    {
+      "productId": "F_TRASH_7"
+    },
+    {
+      "productId": "F_TRASH_8"
+    },
+    {
+      "productId": "F_BOTTLE"
+    },
+    {
+      "productId": "BAIT_BASIC"
+    },
+    {
+      "productId": "FOOD_V_BLOB"
+    },
+    {
+      "productId": "FOOD_V_GEK"
+    },
+    {
+      "productId": "FOOD_V_DIPLO"
+    },
+    {
+      "productId": "FOOD_V_REX"
+    },
+    {
+      "productId": "FOOD_V_CAT"
+    },
+    {
+      "productId": "FOOD_V_STRIDER"
+    },
+    {
+      "productId": "FOOD_V_COW"
+    },
+    {
+      "productId": "FOOD_V_CRAB"
+    },
+    {
+      "productId": "FOOD_V_BONE"
+    },
+    {
+      "productId": "FOOD_V_MOLE"
+    },
+    {
+      "productId": "FOOD_V_ROBOT"
+    },
+    {
+      "productId": "FOOD_V_FLYER"
+    },
+    {
+      "productId": "FOOD_V_EGG"
+    },
+    {
+      "productId": "FOOD_V_MILK"
+    },
+    {
+      "productId": "FOOD_V_BUG"
+    },
+    {
+      "productId": "FOOD_V_PCAT"
+    },
+    {
+      "productId": "FOOD_M_FISH"
+    },
+    {
+      "productId": "FOOD_M_FLYER"
+    },
+    {
+      "productId": "FOOD_M_FIEND"
+    },
+    {
+      "productId": "FOOD_M_HORROR"
+    },
+    {
+      "productId": "FOOD_M_GRUB"
+    },
+    {
+      "productId": "FOOD_M_BLOB"
+    },
+    {
+      "productId": "FOOD_M_GEK"
+    },
+    {
+      "productId": "FOOD_M_DIPLO"
+    },
+    {
+      "productId": "FOOD_M_REX"
+    },
+    {
+      "productId": "FOOD_M_CAT"
+    },
+    {
+      "productId": "FOOD_M_STRIDER"
+    },
+    {
+      "productId": "FOOD_M_COW"
+    },
+    {
+      "productId": "FOOD_M_CRAB"
+    },
+    {
+      "productId": "FOOD_M_MOLE"
+    },
+    {
+      "productId": "FOOD_M_BONE"
+    },
+    {
+      "productId": "FOOD_M_DRILL"
+    },
+    {
+      "productId": "FOOD_M_BEETLE"
+    },
+    {
+      "productId": "FOOD_M_BALL"
+    },
+    {
+      "productId": "FOOD_M_DIGGER"
+    },
+    {
+      "productId": "FOOD_M_BUG"
+    },
+    {
+      "productId": "FOOD_M_MEAT"
+    },
+    {
+      "productId": "FOOD_P_LUSHWILD"
+    },
+    {
+      "productId": "FOOD_P_LUSHFARM"
+    },
+    {
+      "productId": "FOOD_P_HOTWILD"
+    },
+    {
+      "productId": "FOOD_P_HOTFARM"
+    },
+    {
+      "productId": "FOOD_P_COLDWILD"
+    },
+    {
+      "productId": "FOOD_P_COLDFARM"
+    },
+    {
+      "productId": "FOOD_P_TOXWILD"
+    },
+    {
+      "productId": "FOOD_P_TOXFARM"
+    },
+    {
+      "productId": "FOOD_P_RADWILD"
+    },
+    {
+      "productId": "FOOD_P_RADFARM"
+    },
+    {
+      "productId": "FOOD_P_DUSTWILD"
+    },
+    {
+      "productId": "FOOD_P_DUSTFARM"
+    },
+    {
+      "productId": "FOOD_P_GLITCH"
+    },
+    {
+      "productId": "FOOD_P_ALL1"
+    },
+    {
+      "productId": "FOOD_P_ALL2"
+    },
+    {
+      "productId": "FOOD_P_ALL3"
+    },
+    {
+      "productId": "FOOD_P_CAVE"
+    },
+    {
+      "productId": "FOOD_P_WATER"
+    },
+    {
+      "productId": "FOOD_P_POOP"
+    },
+    {
+      "productId": "FOOD_P_DEATH"
+    },
+    {
+      "productId": "FOOD_P_STELLAR"
+    },
+    {
+      "productId": "FOOD_R_EGGS"
+    },
+    {
+      "productId": "FOOD_R_FLOUR"
+    },
+    {
+      "productId": "FOOD_R_SUGAR"
+    },
+    {
+      "productId": "FOOD_R_HONEY"
+    },
+    {
+      "productId": "FOOD_R_VEG"
+    },
+    {
+      "productId": "FOOD_R_MEAT"
+    },
+    {
+      "productId": "FOOD_R_HORROR"
+    },
+    {
+      "productId": "FOOD_R_SMOKED"
+    },
+    {
+      "productId": "FOOD_R_BUTTER"
+    },
+    {
+      "productId": "FOOD_R_GBUTTER"
+    },
+    {
+      "productId": "FOOD_R_CREAM"
+    },
+    {
+      "productId": "FOOD_R_GCREAM"
+    },
+    {
+      "productId": "FOOD_R_CARAMEL"
+    },
+    {
+      "productId": "FOOD_R_OIL"
+    },
+    {
+      "productId": "FOOD_R_GOIL"
+    },
+    {
+      "productId": "FOOD_R_PASTRY"
+    },
+    {
+      "productId": "FOOD_R_BREAD"
+    },
+    {
+      "productId": "FOOD_R_BONEMILK"
+    },
+    {
+      "productId": "FOOD_R_BBUTTER"
+    },
+    {
+      "productId": "FOOD_R_BCHEESE"
+    },
+    {
+      "productId": "FOOD_R_BCUSTARD"
+    },
+    {
+      "productId": "FOOD_R_BCREAM"
+    },
+    {
+      "productId": "FOOD_R_CUSTARD"
+    },
+    {
+      "productId": "FOOD_R_FCUSTARD"
+    },
+    {
+      "productId": "FOOD_R_MCUSTARD"
+    },
+    {
+      "productId": "FOOD_R_SCUSTARD"
+    },
+    {
+      "productId": "FOOD_R_MERINGUE"
+    },
+    {
+      "productId": "FOOD_R_DONUT"
+    },
+    {
+      "productId": "FOOD_R_GONUT"
+    },
+    {
+      "productId": "FOOD_R_CHOC"
+    },
+    {
+      "productId": "FOOD_R_SWEETBUT"
+    },
+    {
+      "productId": "FOOD_R_SWEETGEK"
+    },
+    {
+      "productId": "FOOD_R_HONEYBUT"
+    },
+    {
+      "productId": "FOOD_R_HONEYGEK"
+    },
+    {
+      "productId": "FOOD_R_BLOBGEK"
+    },
+    {
+      "productId": "FOOD_R_PCATBUT"
+    },
+    {
+      "productId": "FOOD_R_PCATGEK"
+    },
+    {
+      "productId": "FOOD_R_BLOBBUT"
+    },
+    {
+      "productId": "FOOD_R_CHEESE"
+    },
+    {
+      "productId": "FOOD_R_GCHEESE"
+    },
+    {
+      "productId": "FOOD_R_DOUGH"
+    },
+    {
+      "productId": "FOOD_JAM_GLITCH"
+    },
+    {
+      "productId": "FOOD_JAM_HOT"
+    },
+    {
+      "productId": "FOOD_JAM_RAD"
+    },
+    {
+      "productId": "FOOD_JAM_DUST"
+    },
+    {
+      "productId": "FOOD_JAM_CAT"
+    },
+    {
+      "productId": "FOOD_JAM_CRAB"
+    },
+    {
+      "productId": "FOOD_JAM_BUG"
+    },
+    {
+      "productId": "FOOD_DNUT_CUST"
+    },
+    {
+      "productId": "FOOD_DNUT_FCUST"
+    },
+    {
+      "productId": "FOOD_DNUT_MCUST"
+    },
+    {
+      "productId": "FOOD_DNUT_SCUST"
+    },
+    {
+      "productId": "FOOD_DNUT_HON"
+    },
+    {
+      "productId": "FOOD_DNUT_HONB"
+    },
+    {
+      "productId": "FOOD_DNUT_BLOB"
+    },
+    {
+      "productId": "FOOD_DNUT_PCAT"
+    },
+    {
+      "productId": "FOOD_DNUT_CARM"
+    },
+    {
+      "productId": "FOOD_DNUT_CHOC"
+    },
+    {
+      "productId": "FOOD_DNUT_MEAT"
+    },
+    {
+      "productId": "FOOD_DNUT_JAM"
+    },
+    {
+      "productId": "FOOD_DNUT_CJAM"
+    },
+    {
+      "productId": "FOOD_DNUT_AJAM"
+    },
+    {
+      "productId": "FOOD_DNUT_BJAM"
+    },
+    {
+      "productId": "FOOD_R_PIECASE"
+    },
+    {
+      "productId": "FOOD_PIE_MEAT"
+    },
+    {
+      "productId": "FOOD_PIE_SMEAT"
+    },
+    {
+      "productId": "FOOD_PIE_VEG"
+    },
+    {
+      "productId": "FOOD_PIE_FISH"
+    },
+    {
+      "productId": "FOOD_PIE_FIEND"
+    },
+    {
+      "productId": "FOOD_PIE_ORGAN"
+    },
+    {
+      "productId": "FOOD_PIE_GEK"
+    },
+    {
+      "productId": "FOOD_PIE_CRAB"
+    },
+    {
+      "productId": "FOOD_PIE_BERRY"
+    },
+    {
+      "productId": "FOOD_PIE_GLOW"
+    },
+    {
+      "productId": "FOOD_PIE_MUSH"
+    },
+    {
+      "productId": "FOOD_PIE_JAM"
+    },
+    {
+      "productId": "FOOD_PIE_WEIRD"
+    },
+    {
+      "productId": "FOOD_PIE_CACTUS"
+    },
+    {
+      "productId": "FOOD_PIE_HONEY"
+    },
+    {
+      "productId": "FOOD_PIE_ROOTS"
+    },
+    {
+      "productId": "FOOD_PIE_GREASE"
+    },
+    {
+      "productId": "FOOD_PIE_CAT"
+    },
+    {
+      "productId": "FOOD_PIE_CRABJ"
+    },
+    {
+      "productId": "FOOD_PIE_CHOC"
+    },
+    {
+      "productId": "FOOD_PIE_CARM"
+    },
+    {
+      "productId": "FOOD_PIE_CREAM"
+    },
+    {
+      "productId": "FOOD_PIE_CUST"
+    },
+    {
+      "productId": "FOOD_PIE_MCUST"
+    },
+    {
+      "productId": "FOOD_PIE_SCUST"
+    },
+    {
+      "productId": "FOOD_PIE_CHEESE"
+    },
+    {
+      "productId": "FOOD_PIE_VCHEE"
+    },
+    {
+      "productId": "FOOD_PIE_BONE"
+    },
+    {
+      "productId": "FOOD_PIE_DRILL"
+    },
+    {
+      "productId": "FOOD_PIE_BEET"
+    },
+    {
+      "productId": "FOOD_PIE_DIG"
+    },
+    {
+      "productId": "FOOD_PIE_BALL"
+    },
+    {
+      "productId": "FOOD_PIE_MOLE"
+    },
+    {
+      "productId": "FOOD_PIE_BUGJAM"
+    },
+    {
+      "productId": "FOOD_PIE_BMEAT"
+    },
+    {
+      "productId": "FOOD_MEAT_STEW"
+    },
+    {
+      "productId": "FOOD_VEG_STEW"
+    },
+    {
+      "productId": "FOOD_ORGAN_STEW"
+    },
+    {
+      "productId": "FOOD_STEW_BONE"
+    },
+    {
+      "productId": "FOOD_STEW_DRILL"
+    },
+    {
+      "productId": "FOOD_STEW_BEET"
+    },
+    {
+      "productId": "FOOD_STEW_DIG"
+    },
+    {
+      "productId": "FOOD_STEW_BALL"
+    },
+    {
+      "productId": "FOOD_STEW_BUG"
+    },
+    {
+      "productId": "FOOD_STEW_EVIL"
+    },
+    {
+      "productId": "FOOD_EGGPIE"
+    },
+    {
+      "productId": "FOOD_EGGPIE_M"
+    },
+    {
+      "productId": "FOOD_EGGPIE_G"
+    },
+    {
+      "productId": "FOOD_EGGPIE_GM"
+    },
+    {
+      "productId": "FOOD_EGGPIE_B"
+    },
+    {
+      "productId": "FOOD_EGGPIE_MU"
+    },
+    {
+      "productId": "FOOD_EGGPIE_BUG"
+    },
+    {
+      "productId": "FOOD_J_ALL3"
+    },
+    {
+      "productId": "FOOD_J_LUSH"
+    },
+    {
+      "productId": "FOOD_J_HOT"
+    },
+    {
+      "productId": "FOOD_J_DUST"
+    },
+    {
+      "productId": "FOOD_J_SALT"
+    },
+    {
+      "productId": "FOOD_S_VEG"
+    },
+    {
+      "productId": "FOOD_S_HOT"
+    },
+    {
+      "productId": "FOOD_S_CREAM"
+    },
+    {
+      "productId": "FOOD_S_CHEESE"
+    },
+    {
+      "productId": "FOOD_STEW_O_CH"
+    },
+    {
+      "productId": "FOOD_STEW_V_CH"
+    },
+    {
+      "productId": "FOOD_STEW_M_CH"
+    },
+    {
+      "productId": "FOOD_STEW_O_CR"
+    },
+    {
+      "productId": "FOOD_STEW_V_CR"
+    },
+    {
+      "productId": "FOOD_STEW_M_CR"
+    },
+    {
+      "productId": "FOOD_STEW_O_HOT"
+    },
+    {
+      "productId": "FOOD_STEW_V_HOT"
+    },
+    {
+      "productId": "FOOD_STEW_M_HOT"
+    },
+    {
+      "productId": "FOOD_STEW_O_VEG"
+    },
+    {
+      "productId": "FOOD_STEW_V_VEG"
+    },
+    {
+      "productId": "FOOD_STEW_M_VEG"
+    },
+    {
+      "productId": "FOOD_R_CAKEMIX"
+    },
+    {
+      "productId": "FOOD_R_GCAKEMIX"
+    },
+    {
+      "productId": "FOOD_R_BCAKEMIX"
+    },
+    {
+      "productId": "FOOD_R_PCAKEMIX"
+    },
+    {
+      "productId": "FOOD_R_MCAKEMIX"
+    },
+    {
+      "productId": "FOOD_R_MERMIX"
+    },
+    {
+      "productId": "FOOD_R_MMERMIX"
+    },
+    {
+      "productId": "FOOD_CK_HONEY"
+    },
+    {
+      "productId": "FOOD_CK_CREAM"
+    },
+    {
+      "productId": "FOOD_CK_BLOBBUT"
+    },
+    {
+      "productId": "FOOD_CK_PCATBUT"
+    },
+    {
+      "productId": "FOOD_CK_CHOC"
+    },
+    {
+      "productId": "FOOD_CK_CARM"
+    },
+    {
+      "productId": "FOOD_CK_APPLE"
+    },
+    {
+      "productId": "FOOD_CK_CACTUS"
+    },
+    {
+      "productId": "FOOD_CK_JAM"
+    },
+    {
+      "productId": "FOOD_CK_BUGJAM"
+    },
+    {
+      "productId": "FOOD_CK_JHOT"
+    },
+    {
+      "productId": "FOOD_CK_JGLITCH"
+    },
+    {
+      "productId": "FOOD_CK_CUST"
+    },
+    {
+      "productId": "FOOD_CK_FCUST"
+    },
+    {
+      "productId": "FOOD_CK_MCUST"
+    },
+    {
+      "productId": "FOOD_CK_SCUST"
+    },
+    {
+      "productId": "FOOD_R_EYEBALLS"
+    },
+    {
+      "productId": "FOOD_R_EYESTEW"
+    },
+    {
+      "productId": "FOOD_R_EYEICE"
+    },
+    {
+      "productId": "FOOD_ICE"
+    },
+    {
+      "productId": "FOOD_ICE_FISH"
+    },
+    {
+      "productId": "FOOD_ICE_FIEND"
+    },
+    {
+      "productId": "FOOD_ICE_STAR"
+    },
+    {
+      "productId": "FOOD_ICE_CHOC"
+    },
+    {
+      "productId": "FOOD_ICE_CARM"
+    },
+    {
+      "productId": "FOOD_ICE_FRUIT"
+    },
+    {
+      "productId": "FOOD_ICE_APPLE"
+    },
+    {
+      "productId": "FOOD_ICE_HONEY"
+    },
+    {
+      "productId": "FOOD_ICE_GLITCH"
+    },
+    {
+      "productId": "FOOD_ICE_GRAH"
+    },
+    {
+      "productId": "FOOD_ICE_BONE"
+    },
+    {
+      "productId": "FOOD_ICE_HOT"
+    },
+    {
+      "productId": "FOOD_ICE_BUG"
+    },
+    {
+      "productId": "FOOD_CG_BLOB"
+    },
+    {
+      "productId": "FOOD_CG_PCAT"
+    },
+    {
+      "productId": "FOOD_CG_CREAM"
+    },
+    {
+      "productId": "FOOD_CG_CHOC"
+    },
+    {
+      "productId": "FOOD_CG_CARM"
+    },
+    {
+      "productId": "FOOD_CG_APPLE"
+    },
+    {
+      "productId": "FOOD_CG_CACTUS"
+    },
+    {
+      "productId": "FOOD_CG_JAM"
+    },
+    {
+      "productId": "FOOD_CG_BUGJAM"
+    },
+    {
+      "productId": "FOOD_CG_JHOT"
+    },
+    {
+      "productId": "FOOD_CG_JGLITCH"
+    },
+    {
+      "productId": "FOOD_CG_CUST"
+    },
+    {
+      "productId": "FOOD_CG_FCUST"
+    },
+    {
+      "productId": "FOOD_CG_SCUST"
+    },
+    {
+      "productId": "FOOD_CB_HONEY"
+    },
+    {
+      "productId": "FOOD_CB_CREAM"
+    },
+    {
+      "productId": "FOOD_CB_CHOC"
+    },
+    {
+      "productId": "FOOD_CB_CARM"
+    },
+    {
+      "productId": "FOOD_CB_APPLE"
+    },
+    {
+      "productId": "FOOD_CB_CACTUS"
+    },
+    {
+      "productId": "FOOD_CB_JAM"
+    },
+    {
+      "productId": "FOOD_CB_BUGJAM"
+    },
+    {
+      "productId": "FOOD_CB_JHOT"
+    },
+    {
+      "productId": "FOOD_CB_JGLITCH"
+    },
+    {
+      "productId": "FOOD_CB_CUST"
+    },
+    {
+      "productId": "FOOD_CB_FCUST"
+    },
+    {
+      "productId": "FOOD_CB_SCUST"
+    },
+    {
+      "productId": "FOOD_CP_HONEY"
+    },
+    {
+      "productId": "FOOD_CP_CREAM"
+    },
+    {
+      "productId": "FOOD_CP_CHOC"
+    },
+    {
+      "productId": "FOOD_CP_CARM"
+    },
+    {
+      "productId": "FOOD_CP_APPLE"
+    },
+    {
+      "productId": "FOOD_CP_CACTUS"
+    },
+    {
+      "productId": "FOOD_CP_JAM"
+    },
+    {
+      "productId": "FOOD_CP_BUGJAM"
+    },
+    {
+      "productId": "FOOD_CP_JHOT"
+    },
+    {
+      "productId": "FOOD_CP_JGLITCH"
+    },
+    {
+      "productId": "FOOD_CP_CUST"
+    },
+    {
+      "productId": "FOOD_CP_FCUST"
+    },
+    {
+      "productId": "FOOD_CP_SCUST"
+    },
+    {
+      "productId": "FOOD_CM_CREAM"
+    },
+    {
+      "productId": "FOOD_CM_CHOC"
+    },
+    {
+      "productId": "FOOD_CM_CARM"
+    },
+    {
+      "productId": "FOOD_CM_APPLE"
+    },
+    {
+      "productId": "FOOD_CM_CACTUS"
+    },
+    {
+      "productId": "FOOD_CM_JAM"
+    },
+    {
+      "productId": "FOOD_CM_BUGJAM"
+    },
+    {
+      "productId": "FOOD_CM_JHOT"
+    },
+    {
+      "productId": "FOOD_CM_JGLITCH"
+    },
+    {
+      "productId": "FOOD_MC_HONEY"
+    },
+    {
+      "productId": "FOOD_MC_BLOB"
+    },
+    {
+      "productId": "FOOD_MC_CREAM"
+    },
+    {
+      "productId": "FOOD_MC_CHOC"
+    },
+    {
+      "productId": "FOOD_MC_CARM"
+    },
+    {
+      "productId": "FOOD_MC_APPLE"
+    },
+    {
+      "productId": "FOOD_MC_CACTUS"
+    },
+    {
+      "productId": "FOOD_MC_JAM"
+    },
+    {
+      "productId": "FOOD_MC_BUGJAM"
+    },
+    {
+      "productId": "FOOD_MC_JHOT"
+    },
+    {
+      "productId": "FOOD_MC_JGLITCH"
+    },
+    {
+      "productId": "FOOD_MC_CUST"
+    },
+    {
+      "productId": "FOOD_MC_PCAT"
+    },
+    {
+      "productId": "FOOD_MM_HONEY"
+    },
+    {
+      "productId": "FOOD_MM_BLOB"
+    },
+    {
+      "productId": "FOOD_MM_CREAM"
+    },
+    {
+      "productId": "FOOD_MM_CHOC"
+    },
+    {
+      "productId": "FOOD_MM_CARM"
+    },
+    {
+      "productId": "FOOD_MM_APPLE"
+    },
+    {
+      "productId": "FOOD_MM_CACTUS"
+    },
+    {
+      "productId": "FOOD_MM_JAM"
+    },
+    {
+      "productId": "FOOD_MM_BUGJAM"
+    },
+    {
+      "productId": "FOOD_MM_JHOT"
+    },
+    {
+      "productId": "FOOD_MM_JGLITCH"
+    },
+    {
+      "productId": "FOOD_MM_CUST"
+    },
+    {
+      "productId": "FOOD_MM_PCAT"
+    },
+    {
+      "productId": "FOOD_CM_BLOBBUT"
+    },
+    {
+      "productId": "FOOD_CM_HONEY"
+    },
+    {
+      "productId": "FOOD_CM_PCATBUT"
+    },
+    {
+      "productId": "FOOD_CG_HONEY"
+    },
+    {
+      "productId": "FOOD_W_CASE"
+    },
+    {
+      "productId": "FOOD_W_MEAT"
+    },
+    {
+      "productId": "FOOD_W_SWEETM"
+    },
+    {
+      "productId": "FOOD_B_DOUGH"
+    },
+    {
+      "productId": "FOOD_B_PLAIN"
+    },
+    {
+      "productId": "FOOD_B_SALT"
+    },
+    {
+      "productId": "FOOD_B_JAM"
+    },
+    {
+      "productId": "FOOD_B_CAT"
+    },
+    {
+      "productId": "FOOD_B_HOT"
+    },
+    {
+      "productId": "FOOD_B_HERB"
+    },
+    {
+      "productId": "FOOD_B_FLOWER"
+    },
+    {
+      "productId": "FOOD_B_MEAT"
+    },
+    {
+      "productId": "FOOD_B_HONEY"
+    },
+    {
+      "productId": "FOOD_B_APPLE"
+    },
+    {
+      "productId": "FOOD_B_MILK"
+    },
+    {
+      "productId": "FOOD_B_CREAM"
+    },
+    {
+      "productId": "FOOD_B_CARAMEL"
+    },
+    {
+      "productId": "FOOD_B_CHOCO"
+    },
+    {
+      "productId": "FOOD_B_VEG"
+    },
+    {
+      "productId": "FOOD_B_MUSHROOM"
+    },
+    {
+      "productId": "FOOD_B_FIEND"
+    },
+    {
+      "productId": "FOOD_B_CACTUS"
+    },
+    {
+      "productId": "FOOD_B_FISH"
+    },
+    {
+      "productId": "FOOD_B_WORM"
+    },
+    {
+      "productId": "FOOD_B_WEIRD"
+    },
+    {
+      "productId": "FOOD_B_CHEESE"
+    },
+    {
+      "productId": "FOOD_B_BURN"
+    },
+    {
+      "productId": "FOOD_B_BUG"
+    },
+    {
+      "productId": "FOOD_F_EGGS"
+    },
+    {
+      "productId": "FOOD_F_SMALL1"
+    },
+    {
+      "productId": "FOOD_F_SMALL2"
+    },
+    {
+      "productId": "FOOD_F_SMALL3"
+    },
+    {
+      "productId": "FOOD_F_MED1"
+    },
+    {
+      "productId": "FOOD_F_MED2"
+    },
+    {
+      "productId": "FOOD_F_MED3"
+    },
+    {
+      "productId": "FOOD_F_LARGE1"
+    },
+    {
+      "productId": "FOOD_F_LARGE2"
+    },
+    {
+      "productId": "FOOD_F_LARGE3"
+    },
+    {
+      "productId": "FOOD_F_XL1"
+    },
+    {
+      "productId": "FOOD_F_XL2"
+    },
+    {
+      "productId": "FOOD_F_XL3"
+    },
+    {
+      "productId": "FOOD_F_MIX"
+    },
+    {
+      "productId": "FOOD_F_CLAM"
+    },
+    {
+      "productId": "FOOD_F_JELLY"
+    },
+    {
+      "productId": "FOOD_F_TURTLE"
+    },
+    {
+      "productId": "FOOD_F_WORM"
+    },
+    {
+      "productId": "FOOD_F_PRAWN"
+    },
+    {
+      "productId": "FOOD_F_SQUID"
+    },
+    {
+      "productId": "FOOD_F_OCTOPUS"
+    },
+    {
+      "productId": "FOOD_F_STARFISH"
+    },
+    {
+      "productId": "FOOD_F_EEL"
+    },
+    {
+      "productId": "FOOD_F_CRAB"
+    },
+    {
+      "productId": "FOOD_F_SNAIL"
+    },
+    {
+      "productId": "FOOD_F_STEW"
+    },
+    {
+      "productId": "FOOD_F_STEW2"
+    },
+    {
+      "productId": "FOOD_F_PIE"
+    },
+    {
+      "productId": "FOOD_F_RICE"
+    },
+    {
+      "productId": "FOOD_F_CHIPS"
+    },
+    {
+      "productId": "FOOD_F_JEELS"
+    },
+    {
+      "productId": "FOOD_F_S15"
+    }
+  ]
